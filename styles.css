@@ -1,6 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 .current-tab {
     background-color:rgba(219, 226, 239, 0.5);
@@ -11,7 +8,7 @@
     display: none;
 }
 .active{
-    display:flex;
+    display:flex !important;
 }
 .wrapper{
     background: linear-gradient(rgb(28, 25, 236),rgb(1, 1, 46));
