@@ -37,5 +37,10 @@
         flex-direction: column;
         gap: 10px;
         align-items: center;
-    }    
+    } 
+}
+@media (min-width:680px) {
+    .wrapper{
+        height: 100vh;
+    }       
 }
