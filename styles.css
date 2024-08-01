@@ -3,7 +3,9 @@
     background-color:rgba(219, 226, 239, 0.5);
     border-radius: 4px;
 }
-
+.tab{
+    border: 2px dotted rgb(244, 241, 248);
+}
 .inactive{
     display: none;
 }
@@ -11,7 +13,7 @@
     display:flex !important;
 }
 .wrapper{
-    background: linear-gradient(rgb(28, 25, 236),rgb(1, 1, 46));
+    background: linear-gradient(rgb(36, 3, 90),rgb(217, 170, 231));
 }
 .parameter-container img{
     height: 80px;
